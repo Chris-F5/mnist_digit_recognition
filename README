@@ -1,0 +1,38 @@
+MNIST DIGIT RECOGNITION IN C
+----------------------------
+
+                            
+                            
+                            
+                            
+                            
+                    #%.     
+               ....-@%      
+           .*##%@@+*@#      
+           =@@@@*%@@@-      
+          +@@*+  .@@@       
+          +@%   .*@@=       
+          :%@* .*@@=        
+           *@%-%@@=         
+           +@@@@@*.         
+           =@@@@*.          
+           *@@@*            
+          *@@@@*            
+        .=@@#*@#            
+        -@@= -@*            
+       :@@: .%@=            
+       +@#  =@@=            
+       +@# -@@*             
+       +@*#@@-              
+       =@@@@+               
+        =@#=                
+                            
+                            
+                            
+
+Basic neural network to recognise digits in the MNIST dataset. This was written
+just for a learning experiment by following book guide [1].
+
+Validation accuracy after 10 epochs is 94.1%.
+
+[1] 2019 - Neural Networks and Deep Learning - Michael Nielsen
